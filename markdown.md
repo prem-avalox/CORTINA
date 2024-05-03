@@ -5,7 +5,7 @@
 
 ----------------------
 
-Para empezar hay que *enfatizar* su comprension dentreo de la herramienta github y su facilidad para navegar a traves de una interfaz no grafica, en este caso el shell de su maquina.
+Para empezar hay que *enfatizar* su comprension dentro de la herramienta github y su facilidad para navegar a traves de una interfaz no grafica, en este caso el shell de su maquina.
 -----
 
 ### Observaciones
